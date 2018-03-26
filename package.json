@@ -1,0 +1,12 @@
+{
+    "name": "multimath",
+    "version": "2.0.0",
+    "description": "Simple math game build with TypeScript",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server"
+    },
+    "devDependencies": {
+        "http-server": "^0.9.0"
+    }
+}
